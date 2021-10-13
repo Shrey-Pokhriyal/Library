@@ -1,0 +1,49 @@
+*
+{
+    margin: 0;
+    padding:0;
+}
+body
+{
+    background: url('bg1.jpg') no-repeat top center;
+    background-color: rgb(99, 2, 2);
+    opacity: 0.95;
+}
+/* .cont
+{
+    display: flex;
+    justify-content: center;
+    color: white;
+} */
+blockquote{
+    text-align: center;
+}
+label{
+    color: white;
+    text-align: center;
+}
+legend
+{
+    color: white;
+    text-align: center;
+}
+hr{
+    z-index: 20;
+    color: white;
+}
+#btn:hover
+{
+    background-color: green;
+    border: 1px solid green;
+}
+.card
+{
+    opacity: 0.8;
+}
+.midhead
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 2vh;
+    color: aliceblue;
+}
